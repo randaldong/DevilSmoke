@@ -1,0 +1,39 @@
+----- PRIMUV & XYZDIST ------
+
+• Very cool blog post that might help with understanding XYZDist & PrimUV:
+
+https://www.toadstorm.com/blog/?p=465
+
+
+
+----- ACES OCIO --------
+
+• Download:
+
+https://github.com/colour-science/OpenColorIO-Configs/tree/feature/aces-1.2-config
+
+
+
+----- Blend Modes --------
+
+• Blend modes math:
+
+https://photoblogstop.com/photoshop/photoshop-blend-modes-explained
+
+
+
+------- NUKE -----------
+
+• TX Fog download:
+
+http://www.nukepedia.com/gizmos/3d/tx_fog
+
+
+• AP Glow:
+
+http://www.nukepedia.com/gizmos/filter/apglow
+
+
+• DEEP Introduction by Hugo's Desk:
+
+https://www.youtube.com/watch?v=4YgCJbEVDFo

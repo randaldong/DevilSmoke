@@ -11,6 +11,8 @@ Video: NukeX 14.0v3
 
 Other plug-ins: [OpenColorIO-Configs](https://github.com/colour-science/OpenColorIO-Configs), aces_1.2; Redshift-Houdini plug-in
 
+> Change the cache file path when run on the device.
+
 ## GIF Demo
 
 ![DevilSmoke_Randal](DevilSmoke_Randal.gif)
